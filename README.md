@@ -30,8 +30,11 @@ Write AnnoReact tag and pass context source from above created method
 Write AnnoImage tag and give source of the image url to `imageSource` attribute and give some unique id to `imageId` attribute i.e., no two images should have same image id
 ```js
 <AnnoImage imageSource="https://st2.depositphotos.com/1915171/8651/v/950/depositphotos_86518008-stock-illustration-transport-icons-car-bike-bus.jpg" imageid="0"></AnnoImage>
-``` 
+```
+# Still confused on how to use?
+Please `src` folder in the following reop https://github.com/burlarajesh/react-image-annotorious-demo/tree/master
+
 # Need help or found any issue?
-You are free to bug me at burla.rajesh2k8@gmail.com
+You are free to bug me at burla.rajesh2k8@gmail.com :)
    
     
