@@ -13,7 +13,7 @@ Import AnnoReact , AnnoImage component from react-image-annotorious.
 import { AnnoReact, AnnoImage } from 'react-image-annotorious'
 ```
 # Generate context menu
-Generate a context menu to display the options when you annonate.
+Generate a context menu to display the options when you annotate.
     
 ```js
 getContextSource() {
